@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a Front-END Developer from Spain, based in São Paulo.
+## I am a Front-End Developer from Spain, based in São Paulo.
 
 My focus is on all things JavaScript and Node.js. 
 I am also learning ReactJS and know a fair bit of PHP and Wordpress. 
-Learning new technologies and leveraging new tools is exciting!
+Learning new technologies and leveraging new tools is exciting! 
 
 I am currently working as a freelance developer and I am also open to remote or full-time positions. 
 
