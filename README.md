@@ -23,6 +23,8 @@ Learning new technologies and leveraging new tools is exciting!
 
 I am currently working as a freelance developer and I am also open to remote or full-time positions. 
 
+Get in touch on jorgebuildswebs@gmail.com :mailbox:
+
 ## :star: Work highlights :star:
 
 # Web Apps
