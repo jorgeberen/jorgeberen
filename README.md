@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##**I am front-end developer from Spain, based in São Paulo.** ##
+## I am front-end developer from Spain, based in São Paulo.
 
 My focus is on all things JavaScript and Node.js. 
 I am also learning ReactJS and know a fair bit of PHP and Wordpress. 
