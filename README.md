@@ -25,7 +25,7 @@ I am currently working as a freelance developer and I am also open to remote or 
 
 ## Work highlights
 
-#Web Apps
+# Web Apps
 
 ### Blog-Connect App
 In order to learn Node.js and I implemented this sort of Facebook clone which I called [Blog-Connect App](https://github.com/jorgeberen/complex_app)
