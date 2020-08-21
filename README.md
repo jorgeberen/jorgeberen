@@ -25,6 +25,8 @@ I am currently working as a freelance developer and I am also open to remote or 
 
 ## Work highlights
 
+#Web Apps
+
 ### Blog-Connect App
 In order to learn Node.js and I implemented this sort of Facebook clone which I called [Blog-Connect App](https://github.com/jorgeberen/complex_app)
 For this app I used Node.js and MongoDB. It was a a complex project that amongst other things allowed me to understand:
@@ -33,6 +35,8 @@ For this app I used Node.js and MongoDB. It was a a complex project that amongst
 3. How to sanitized and clean input data
 
 ### Spanish Chunks App
-I have transitioned from Spanish Teacher to Front-end Developer and in this process I have started a personal project called [Spanish Chunks](https://github.com/jorgeberen/spchks_node_app)
+I have transitioned from secondary Spanish Teacher to Front-end Developer and in this process I have started a personal project called [Spanish Chunks](https://github.com/jorgeberen/spchks_node_app). This is an educationl app aimed at secondary students of Spanish. It is a JavaScript heavy project since the interactive activities require a lot of DOM manipulation and I would like to turn it into a subscrtiption service to generate an income when it becomes more mature. 
+
+
 
 
