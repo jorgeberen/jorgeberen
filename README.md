@@ -33,6 +33,6 @@ For this app I used Node.js and MongoDB. It was a a complex project that amongst
 3. How to sanitized and clean input data
 
 ### Spanish Chunks App
-I have transitioned from Spanish Teacher to Front-end Developer and in this process I have started a personal project called [Spanish Chunks](spanischchunks.com)
+I have transitioned from Spanish Teacher to Front-end Developer and in this process I have started a personal project called [Spanish Chunks](https://github.com/jorgeberen/spchks_node_app)
 
 
