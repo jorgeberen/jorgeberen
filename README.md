@@ -23,7 +23,7 @@ Learning new technologies and leveraging new tools is exciting!
 
 I am currently working as a freelance developer and I am also open to remote or full-time positions. 
 
-## Work highlights
+## :star: Work highlights
 
 # Web Apps
 
