@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ⚡
 
 <!--
 **jorgeberen/jorgeberen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I am front-end developer from Spain, based in São Paulo.** 
+
+My focus is on all things JavaScript and Node.js. 
+I am also learning ReactJS and know a fair bit of PHP and Wordpress. 
+
+I am currently working as a freelance developer and I am also open to remote or full-time positions. 
+
+
