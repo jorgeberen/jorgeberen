@@ -37,6 +37,9 @@ For this app I used Node.js and MongoDB. It was a a complex project that amongst
 ### Spanish Chunks App
 I have transitioned from secondary Spanish Teacher to Front-end Developer and in this process I have started a personal project called [Spanish Chunks](https://github.com/jorgeberen/spchks_node_app). This is an educationl app aimed at secondary students of Spanish. It is a JavaScript heavy project since the interactive activities require a lot of DOM manipulation and I would like to turn it into a subscrtiption service to generate an income when it becomes more mature. 
 
+#Static Sites
+
+I have built some static sites and you can check this one I did for a friend's band [Impronta Viral](https://github.com/jorgeberen/web_impronta)
 
 
 
