@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 ## I am a Front-End Developer from Spain, based in São Paulo.
 
-My focus is on all things JavaScript and Node.js. 
+My focus is on all things JavaScript. Currently working with React. 
 I am also learning ReactJS and know a fair bit of PHP and Wordpress. 
 Learning new technologies and leveraging new tools is exciting! 
-
-I am currently working as a freelance developer and I am also open to remote or full-time positions. 
-
-Get in touch on jorgebuildswebs@gmail.com :mailbox:
 
 ## :star: Work highlights :star:
 
