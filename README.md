@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I am a Front-End Developer from Spain, based in São Paulo.
 
-My focus is on all things JavaScript. Working with React and Python. 
+Working with React and Python @ stackerhq.com
 
 
 
