@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a Front-End Developer from Spain, based in São Paulo.
-
-Working with React and Python @ stackerhq.com
 
 
 
